@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/news-website-using--React-JS/static/css/main.3f5428f4.css",
-    "main.js": "/news-website-using--React-JS/static/js/main.06a6d90b.js",
-    "index.html": "/news-website-using--React-JS/index.html",
-    "main.3f5428f4.css.map": "/news-website-using--React-JS/static/css/main.3f5428f4.css.map",
-    "main.06a6d90b.js.map": "/news-website-using--React-JS/static/js/main.06a6d90b.js.map"
+    "main.css": "/Counter-Cube-using-ReactJS-Hooks-useState-useEffect-useMemo-/static/css/main.3f5428f4.css",
+    "main.js": "/Counter-Cube-using-ReactJS-Hooks-useState-useEffect-useMemo-/static/js/main.06a6d90b.js",
+    "index.html": "/Counter-Cube-using-ReactJS-Hooks-useState-useEffect-useMemo-/index.html",
+    "main.3f5428f4.css.map": "/Counter-Cube-using-ReactJS-Hooks-useState-useEffect-useMemo-/static/css/main.3f5428f4.css.map",
+    "main.06a6d90b.js.map": "/Counter-Cube-using-ReactJS-Hooks-useState-useEffect-useMemo-/static/js/main.06a6d90b.js.map"
   },
   "entrypoints": [
     "static/css/main.3f5428f4.css",
